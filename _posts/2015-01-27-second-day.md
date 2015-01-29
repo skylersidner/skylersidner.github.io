@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Day 2"
 ---
 
 2015-01-27 Day 2
